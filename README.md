@@ -14,5 +14,5 @@ Basic example of testing RiotJS with Jasmine
 
 ## Example
 
-The [example in this repo](./tags/hello-world/hello-world.tag) is a tag that inserts a `h1` tag with the contents 'Hello World', the [basic spec](./specs/hello-worldSpec.js) tests for this string.
+The [example in this repo](./tags/hello-world.tag) is a tag that inserts a `h1` tag with the contents 'Hello World', the [basic spec](./test/hello-worldSpec.js) tests for this string.
 

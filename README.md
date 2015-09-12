@@ -2,7 +2,7 @@
 
 # Riot.js testing with Jasmine
 
-Basic example of testing RiotJS with Jasmine
+Basic example of testing Riot.js with Jasmine
 
 ## Install
 
